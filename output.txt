@@ -1,0 +1,73 @@
+********************************************************************************
+* AUTHOR(S)        : Jose Cardenas
+* STUDENT IDS      : 1026944
+* ASSIGNMENTS # 12 : Dijkstra Algorithm
+* CLASS            : CS1D
+* SECTION          : Monday & Wednesdays: 5:00 - 7:20pm
+* DUE DATE         : 11/28/18
+* ------------------------------------------------------------------------------
+* PROGRAM DESCRIPTION:
+*  Implementation of Dijkstra’s algorithm to find the 
+*  shortest distance from. Atlanta to the cities on the map
+*  below. The Paths and the corresponding. distance are identified.
+********************************************************************************
+
+**Atlanta --> Atlanta**
+Distance From Center: 0
+The path take: Atlanta   
+
+
+**Atlanta --> Miami**
+Distance From Center: 661
+The path take: Atlanta   Miami   
+
+
+**Atlanta --> Dallas**
+Distance From Center: 781
+The path take: Atlanta   Dallas   
+
+
+**Atlanta --> Houston**
+Distance From Center: 810
+The path take: Atlanta   Houston   
+
+
+**Atlanta --> Kansas City**
+Distance From Center: 864
+The path take: Atlanta   Kansas City   
+
+
+**Atlanta --> New York**
+Distance From Center: 888
+The path take: Atlanta   New York   
+
+
+**Atlanta --> Boston**
+Distance From Center: 1102
+The path take: Atlanta   New York   Boston   
+
+
+**Atlanta --> Chicago**
+Distance From Center: 1397
+The path take: Atlanta   Kansas City   Chicago   
+
+
+**Atlanta --> Denver**
+Distance From Center: 1463
+The path take: Atlanta   Kansas City   Denver   
+
+
+**Atlanta --> Los Angeles**
+Distance From Center: 2216
+The path take: Atlanta   Dallas   Los Angeles   
+
+
+**Atlanta --> San Francisco**
+Distance From Center: 2597
+The path take: Atlanta   Dallas   Los Angeles   San Francisco   
+
+
+**Atlanta --> Seattle**
+Distance From Center: 2794
+The path take: Atlanta   Kansas City   Denver   Seattle   
+
